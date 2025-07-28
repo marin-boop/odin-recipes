@@ -1,2 +1,1 @@
-# odin-recipes
-Project: Recipes | The Odin Project | html
+more information to follow
